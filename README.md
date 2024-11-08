@@ -4,11 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codecraftersgcuf&label=Profile%20views&color=0e75b6&style=flat" alt="codecraftersgcuf" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codecraftersgcuf&theme=algolia" alt="codecraftersgcuf" /></a> </p>
-<<<<<<< HEAD
-<img src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" align="right" alt="Profile Image" style="width: 130px; height:100px; max-width: 100%;">
-
-=======
->>>>>>> parent of 979ae3e (Update README.md)
 
 - 🔭 I’m currently working on [Ecommerce Project](https://aplhasites.vercel.app/)
 - 🌱 I’m currently learning **Next.js.**
