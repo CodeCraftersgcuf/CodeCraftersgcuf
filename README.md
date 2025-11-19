@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codecraftersgcuf&theme=algolia" alt="codecraftersgcuf" /></a> </p>
 
-- 🔭 I’m currently working on [Ecommerce Project](https://aplhasites.vercel.app/)
-- 🌱 I’m currently learning **Next.js.**
+- 🔭 I’m currently working on [gRPC Project](https://gloriaconnect.com/)
+- 🌱 I’m currently learning **gRPC**
 - 👯 I’m looking to collaborate on **Developing Projects.**
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/CodeCraftersgcuf?tab=repositories)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/m-abubakar-sajjad/)
